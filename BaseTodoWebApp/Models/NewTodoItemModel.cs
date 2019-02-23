@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BaseTodoWebApp.Models
 {
-    public class TodoItemCreateModel
+    public class NewTodoItemModel
     {
         public string Title { get; set; }
 
